@@ -1,3 +1,3 @@
-### Android Studio Projects' Workspace
+## Android Studio Projects' Workspace
 
-# This repo contains all the android applications build for personal use and projects.
+#### This repo contains all the android applications build for personal use and projects.
